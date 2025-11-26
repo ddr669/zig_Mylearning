@@ -2,5 +2,5 @@
 
 #### Guide  
 
-* [Assignments](basics/Assignment.md)
+* [Assignments](Assignment.md)
 
