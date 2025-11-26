@@ -15,7 +15,7 @@ var variable: u32   = 5; // unsigned 32 bits integer
 const a: i32 = undefined;
 const b: u32 = undefined;
 
-<code>
+</code>
 
 ---
 
