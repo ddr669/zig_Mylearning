@@ -2,7 +2,7 @@
 
 # Zig language
 
-![ziglang zero (0) mascot](https://ziglang.org/zero.svg)
+<img alt="ziglang zero (0) mascot" src="https://ziglang.org/zero.svg" width="200" height="80"/>
 
 </div>
 
@@ -15,8 +15,6 @@ is to see examples, so this documentation shows how
 to use each of Zig's features. It is all on one page 
 so you can search with your browser's search tool.
 
-The code samples in this document are compiled and 
-tested as part of the main test suite of Zig.
 
 [official doc](https://ziglang.org/documentation/master/)
 
