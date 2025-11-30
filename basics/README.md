@@ -4,3 +4,5 @@
 
 * [Assignments](Assignment.md)
 
+* [Basics Operations](Operations.md)
+
