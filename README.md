@@ -1,6 +1,10 @@
+<div align="center">
+
 # Zig language
 
----
+![ziglang zero (0) mascot](https://ziglang.org/zero.svg)
+
+</div>
 
 Zig is a general-purpose programming language and 
 toolchain for maintaining *robust*, *optimal*, and
