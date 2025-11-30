@@ -10,19 +10,19 @@ Zig is a general-purpose programming language and
 toolchain for maintaining *robust*, *optimal*, and
 *reusable* software.
 
-Often the most efficient way to learn something new 
-is to see examples, so this documentation shows how 
-to use each of Zig's features. It is all on one page 
-so you can search with your browser's search tool.
+And this repo is just my guide to learning and my process
+through study about the language nd some other things about
+dont expect a full self learning guide but a start.  
 
 
 [official doc](https://ziglang.org/documentation/master/)
 
+---
+
+# My Guide 
+
 * [Basics](basics/)
 
-
-
----
   
 > **Warning  
 >
@@ -45,9 +45,9 @@ so you can search with your browser's search tool.
 >
 
 > [official post in ziglang.org](https://ziglang.org/news/migrating-from-github-to-codeberg/)  
-> [1.](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman)  
+> [\[1.\]](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman)  
 > [ziglings](https://github.com/ratfactor/ziglings/issues/360)  
-> [2.](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)  
+> [\[2.\]](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)  
 
 
 
